@@ -1,8 +1,8 @@
 {
-  "name": "react-drag-drop-files",
-  "version": "2.3.10",
+  "name": "react-drag-drop-files-variable-upload-label",
+  "version": "2.3.14",
   "description": "Light React Drag & Drop files and images library styled by styled-components",
-  "author": "Karim <karimmokhtar28@gmail.com>",
+  "author": "Geoffrey <geoffreyknoxcs@gmail.com>",
   "license": "MIT",
   "private": false,
   "main": "dist/react-drag-drop-files.cjs.js",
@@ -41,11 +41,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/KarimMokhtar/react-drag-drop-files"
+    "url": "https://github.com/quazar22/react-drag-drop-files"
   },
-  "homepage": "https://github.com/KarimMokhtar/react-drag-drop-files",
+  "homepage": "https://github.com/quazar22/react-drag-drop-files",
   "contributors": [
-    "Karim Mokhtar <karimmokhtar28@gmail.com>"
+    "Karim Mokhtar <karimmokhtar28@gmail.com>",
+    "Geoffrey Knox <geoffreyknoxcs@gmail.com>"
   ],
   "readme": "README.md",
   "browserslist": {
